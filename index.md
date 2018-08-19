@@ -25,7 +25,16 @@
 不怕人，傻大胆+4   <Strong>C. </Strong>
 品相好，稀有毛色+6
 
-（结果）
+
+
+
+
+
+
+
+
+
+## <strong>（结果）</strong>
 ## <Strong>10-14分</Strong> <img src="bd.jpg">
 你是一只善良纯洁的布丁仓鼠，在别人有需要的时候，你总能第一个伸出援手。
 ## <Strong>15-20分</Strong><img src="zc.jpg">
