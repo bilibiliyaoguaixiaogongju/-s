@@ -28,9 +28,9 @@
 （结果）
 ## <Strong>10-14分</Strong> <img src="bd.jpg">
 你是一只善良纯洁的布丁仓鼠，在别人有需要的时候，你总能第一个伸出援手。
-## <Strong>15-20分</Strong><img src="zc.png">
+## <Strong>15-20分</Strong><img src="zc.jpg">
  你是一只乐观开朗的紫仓仓鼠，很容易发现生活中的乐趣。
-## <Strong>21-30分</Strong><img src="jh.png">
+## <Strong>21-30分</Strong><img src="jh.jpg">
 你是一只冷静的金狐仓鼠，你很珍惜友情，在你身边一定不会缺少朋友
-## <Strong>30分以上</Strong><img src="yh.png">
+## <Strong>30分以上</Strong><img src="yh.jpg">
 你是一只勇敢高洁的银狐仓鼠，任何困难在你面前都不堪一击，强大的内心会使你披荆斩棘
