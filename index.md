@@ -26,7 +26,7 @@
 品相好，稀有毛色+6
 
 （结果）
-## <Strong>10-14分</Strong> <img src="bd.png">
+## <Strong>10-14分</Strong> <img src="bd.jpg">
 你是一只善良纯洁的布丁仓鼠，在别人有需要的时候，你总能第一个伸出援手。
 ## <Strong>15-20分</Strong><img src="zc.png">
  你是一只乐观开朗的紫仓仓鼠，很容易发现生活中的乐趣。
