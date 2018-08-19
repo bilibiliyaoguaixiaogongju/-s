@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## 测一测你是什么品种的仓鼠
+  请按最后分值综合得出结果（单选）
 
-You can use the [editor on GitHub](https://github.com/bilibiliyaoguaixiaogongju/-s/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 如果你的仓鼠宝宝不小心从你的手心摔在了地板上，你先会？
+<Strong>A. </Strong>自责+1分    B.心疼+10分    C.内心毫无波澜+15分
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 你把养的仓鼠当成你的
+<Strong>A. </Strong>家人+1       B.宠物+5     C.玩具+10
 
-### Markdown
+## 看到网上有渣养仓鼠的人（不是虐鼠），你会
+<Strong>A. </Strong>事不关己，高高挂起+2   B劝说他好好养仓鼠+5   C上去就是一顿臭骂+10
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 如果买了一只不听话也非常怕人的仓鼠，你会
+<Strong>A. </Strong>送人+3    B.养下去+4    C放生+9
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bilibiliyaoguaixiaogongju/-s/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 你最喜欢以下哪种仓鼠呢
+<Strong>A. </Strong>肥胖毛多手感好+2    B.不怕人，傻大胆+4   C.品相好，稀有毛色+6
